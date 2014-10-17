@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[meq:home|Door43 (meq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-meq|d43-meq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-meq/archive/master.zip|d43-meq.zip]]
+
+**Recent Changes**
+{{changes>ns = meq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/meq|Ethnologue data]]
+
